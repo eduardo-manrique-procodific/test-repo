@@ -8,4 +8,4 @@ This is a test appliaction that aims to work for training purposes
 We are going to use Vscode to develop a new app and push it to this repo
 
 ## Where?
-In Guadalajara Jalisco
+The Development will be done by zoom and we are going to meet twice a week
